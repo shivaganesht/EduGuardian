@@ -1,19 +1,3 @@
-## ✅ **Project Name**: EduGuardian  
-Personalized AI-generated video content for every learner, powered by Google Technologies.
-
----
-
-## 🧠 Problem Statement
-**Revolutionizing Student Education with AI-Generated Video Content**  
-TAP currently shares educational content via WhatsApp (TAPBuddy), but manual content creation is slow and hard to scale. Students need engaging, personalized content — fast.  
-
----
-
-## 💡 Solution Overview
-**EduGuardian** is an AI-powered platform that automates the generation of educational video content (explainer videos, voiceovers, animations) based on the student’s profile. It creates content across 5 subjects: Visual Arts, Performing Arts, Coding, Financial Literacy, and Science, using Google Gemini APIs for personalization and Vertex AI for video rendering.
-
----
-
 # EduGuardian 🎓🚀
 
 **Revolutionizing Student Education with AI-Generated Video Content**
