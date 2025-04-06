@@ -40,7 +40,7 @@ Minimal version supports:
 - Delivery via WhatsApp mock
 
 ## 📽 Demo Video
-> https://drive.google.com/drive/folders/1Wq51RzoY_0ua0nVQosTAWE5z0Kx0KS5C?usp=sharing
+> [Click here to view Demo Video](https://bit.ly/42wlzyC)
 
 ## 📁 Repository Structure
 ```
