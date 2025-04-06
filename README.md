@@ -12,7 +12,8 @@ TAP currently shares educational content via WhatsApp (TAPBuddy), but manual con
 ## 💡 Solution Overview
 **EduGuardian** is an AI-powered platform that automates the generation of educational video content (explainer videos, voiceovers, animations) based on the student’s profile. It creates content across 5 subjects: Visual Arts, Performing Arts, Coding, Financial Literacy, and Science, using Google Gemini APIs for personalization and Vertex AI for video rendering.
 
-```markdown
+---
+
 # EduGuardian 🎓🚀
 
 **Revolutionizing Student Education with AI-Generated Video Content**
@@ -55,7 +56,7 @@ Minimal version supports:
 - Delivery via WhatsApp mock
 
 ## 📽 Demo Video
-> [Insert YouTube/Loom link here]
+> https://drive.google.com/drive/folders/1Wq51RzoY_0ua0nVQosTAWE5z0Kx0KS5C?usp=sharing
 
 ## 📁 Repository Structure
 ```
