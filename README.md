@@ -71,10 +71,10 @@ Pre-requisite: Google Cloud credentials & Gemini API key
 ```
 
 ## 👨‍👩‍👧‍👦 Team
-Built by Team EduGuardians 
-Lead: Shiva Ganesh Talikota
-Team Member 1: Kishan Sai Vutukuri
+**Built by Team EduGuardians **
+- **Lead:** Shiva Ganesh Talikota
+- **Team Member 1:** Kishan Sai Vutukuri
 
 ## 📬 Contact
 Drop a mail: shivaganesh9108@gmail.com  
-```
+---
