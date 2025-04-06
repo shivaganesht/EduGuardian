@@ -1,5 +1,5 @@
 ## ✅ **Project Name**: EduGuardian  
-**Tagline**: Personalized AI-generated video content for every learner, powered by Google tech.
+**Tagline**: Personalized AI-generated video content for every learner, powered by Google Technologies.
 
 ---
 
