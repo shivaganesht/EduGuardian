@@ -34,10 +34,25 @@ EduGuardian leverages:
 > Included in the /assets folder
 
 ## 🚀 MVP
-Minimal version supports:
-- Create video from admin
-- Generate script + visuals
-- Delivery via WhatsApp mock
+Minimal version supports coming soon.
+
+## 🧪 Run Locally (MVP)
+Pre-requisite: Google Cloud credentials & Gemini API key
+
+### 1. Clone repo
+```git clone https://github.com/yourname/EduGuardian.git```
+```cd EduGuardian```
+
+### 2. Setup virtual environment
+```python -m venv venv```
+```source venv/bin/activate```
+
+### 3. Install requirements
+```pip install -r backend/requirements.txt```
+
+### 4. Run server
+```uvicorn backend.main:app --reload```
+
 
 ## 📽 Demo Video
 > [Click here to view Demo Video](https://bit.ly/42wlzyC)
